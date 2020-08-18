@@ -1,6 +1,6 @@
 ### Hello!! Yuvraj Kadale here 👋
 
-- 🔭 I’m currently working at Quantel as Student trainee
+- 🔭 I’m currently working at Hackins code as a contributor for CH20
 - 🌱 I’m currently learning AIoT
 - 🤔 I’m looking for help from backend developers
 - 💬 Ask me about IoT & Embedded systems

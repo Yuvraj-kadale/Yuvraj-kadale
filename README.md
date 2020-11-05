@@ -1,8 +1,8 @@
 ### Hello!! Yuvraj Kadale here 👋
 
-- 🔭 I’m currently working at Hackins code as a contributor for CH20
+- 🔭 I’m currently working for Eyantra on the theme Nirakshak bot!
 - 🌱 I’m currently learning AIoT
-- 🤔 I’m looking for help from backend developers
+- 🤔 I’m looking for help from Web developers.
 - 💬 Ask me about IoT & Embedded systems
 - 📫 You can reach me via: https://yuvraj-kadale.github.io/my_portfolio/
 - 😄 Pronouns:He

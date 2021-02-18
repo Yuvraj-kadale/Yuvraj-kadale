@@ -1,4 +1,4 @@
-### Hello!! Yuvraj Kadale here 👋
+### Hello!! Yuvraj Kadale here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 - 🔭 I’m currently working for Eyantra on the theme Nirakshak bot!
 - 🌱 I’m currently learning AIoT

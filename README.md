@@ -11,6 +11,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Yuvraj-kadale&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </p>
 <br>
+
 ## Tech Stack
 
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>]()
@@ -22,10 +23,11 @@
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>]()
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"/>]()
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg"/>]()
+
 <br>
 
 ## Connect with me
-<br>
+
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg">](https://www.linkedin.com/in/yuvraj-kadale-859725171/)
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg">](https://www.instagram.com/yuvrajkadale/)
 [<img align ="left" width = "40px" height ="40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg"/>](https://www.facebook.com/yuvraj.kadale.37)
@@ -33,5 +35,5 @@
 <br>
 
 ## Visitor's count
-<br>
+
 ![Visitor Count](https://profile-counter.glitch.me/{Yuvraj-kadale}/count.svg)

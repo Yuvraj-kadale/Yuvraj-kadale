@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AIoT
 - 🤔 I’m looking for help from Web developers.
 - 💬 Ask me about IoT & Embedded systems
-- 📫 You can reach me via: https://yuvraj-kadale.github.io/my_portfolio/
+- 📫 You can reach me via: https://yuvraj-kadale.github.io/
 - 😄 Pronouns:He
 - ⚡ Fun fact: My earplugs are always plugged in also when they aren't in use!!
 

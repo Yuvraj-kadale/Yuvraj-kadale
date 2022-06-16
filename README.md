@@ -1,5 +1,5 @@
 ### Hello!!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Yuvraj Kadale here 
-- 🔭 I’m currently Summer Intern at IIT Ropar!
+- 🔭 I’m currently IoT Intern at bipolar factory!
 - 🌱 I’m currently learning AIoT
 - 🤔 I’m looking for help from Web developers.
 - 💬 Ask me about IoT & Embedded systems

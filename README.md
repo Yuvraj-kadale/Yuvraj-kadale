@@ -6,11 +6,11 @@
 - 📫 You can reach me via: https://yuvraj-kadale.github.io/
 - 😄 Pronouns:He
 - ⚡ Fun fact: My earplugs are always plugged in also when they aren't in use!!
-
+<!---
 <p align ="center" width = "100%">
 <img src="https://github-readme-stats.vercel.app/api?username=Yuvraj-kadale&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </p>
-<br>
+<br> -->
 
 ## Tech Stack
 

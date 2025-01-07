@@ -1,8 +1,8 @@
 ### Hello!!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Yuvraj Kadale here 
-- 🔭 I’m currently intern at Stryker!
-- 🌱 I’m currently learning AIoT
-- 🤔 I’m looking for help from Web developers.
-- 💬 Ask me about IoT & Embedded systems
+- 🔭 I’m Software Developer at Stryker!
+- 🌱 I’m currently learning Computer Graphics
+- 🤔 I’m looking for help in metal.
+- 💬 Ask me about XR.
 - 📫 You can reach me via: https://yuvraj-kadale.github.io/
 - 😄 Pronouns:He
 - ⚡ Fun fact: My earplugs are always plugged in also when they aren't in use!!
